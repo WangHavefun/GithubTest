@@ -1,6 +1,6 @@
 public class App {
 
-    public App(){
-        System.out.println("Hello world");
+    public App() {
+        System.out.println("Hello world!");
     }
 }
